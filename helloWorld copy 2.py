@@ -13,4 +13,7 @@ folium.Marker(location = [37.55,126.98]).add_to(m)
 
 
 
-m.save('mmmm.html')
+
+
+
+m.save('mm.html')
